@@ -3,7 +3,7 @@
 簡単に日本語化できるようにする日本語化支援ツールです。  
   
 # 使い方
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer-GUI/releases/latest)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Translation_Installer.exeを起動してください。  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
