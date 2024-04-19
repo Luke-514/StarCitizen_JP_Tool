@@ -51,3 +51,6 @@ Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium 
 Luke514  
 Twitter:@rx_luke  
 Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】 
+  
+# Special Thanks
+NTKestrel
