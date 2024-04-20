@@ -1,6 +1,9 @@
 # これは何をするためのもの？
 スターシチズンを日本語化するための[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)の配置場所や、設定方法が分からないという方でも  
 簡単に日本語化できるようにする日本語化支援ツールです。  
+本バッチファイルはStar Citizenの操作プロファイルや設定をバックアップ、復元するものです  
+本バッチファイルはStar Citizenのバージョンが変わった際に、  
+CIG(SCの開発・運営)が削除することを推奨している、ユーザーフォルダとシェーダーフォルダを削除するものです  
   
 # 使い方
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
@@ -20,6 +23,43 @@
 5.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、  
 &emsp;ゲームを起動してみてください。  
 <img src="image/4.png" width="50%" />  
+  
+# バックアップ・復元ツールの利用上の注意
+操作プロファイルは手動でゲーム内からImport/Exportする必要があります  
+(操作プロファイル以外はImport/Exportしなくても適用されます)  
+  
+詳しいImport/Export方法は以下を参考にしてください  
+https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
+  
+# バックアップ・復元ツールの使い方
+3.&nbsp;BackupかRestore、どちらか実施したいほうを入力します(b、rでも可)  
+4.&nbsp;LIVE、PTU、EPTUのうち、実施したいバージョンを入力します(l、p、epでも可)  
+5.&nbsp;バックアップ、復元対象が表示されるので、YESかNOを入力してください(y、nでも可)  
+  
+# 設定コピー機能の使い方
+1.&nbsp;コピーしたいバージョンの設定をBackupしておきます  
+2.&nbsp;実施するモードの選択でCopyを入力します(cでも可)  
+3.&nbsp;コピー元のバージョンを入力します  
+4.&nbsp;コピー先のバージョンを入力します  
+5.&nbsp;コピー対象が表示されるので、YESかNOを入力してください(y、nでも可)  
+6.&nbsp;Restoreを実施します  
+
+# User/Shaderフォルダ削除ツールの利用上の注意
+本ツールはStar Citizenのアップデート前に使うことをお勧めします  
+  
+本バッチファイルはLIVE/PTUの両方に対応していますが、  
+PTUがLIVEのマイナーパッチをテストしている場合は、両方のシェーダーフォルダが削除されます  
+マイナーパッチの例) LIVE: 3.17.4 PTU: 3.17.5  
+メジャーパッチの例) LIVE: 3.17.5 PTU: 3.18.0  
+  
+削除対象に表示されたフォルダは中身ごと完全削除しますので、  
+表示された対象をよく確認してから削除を実施してください  
+  
+操作設定等は消去されますので、必要な方はバックアップ・復元ツールでバックアップしてください  
+
+# User/Shaderフォルダ削除ツールの使い方
+3.&nbsp;LIVE、PTU、EPTUのうち、消したいバージョンを入力します(l、p、epでも可)  
+4.&nbsp;削除対象が表示されるので、YESかNOを入力してください(y、nでも可)  
   
 # よくある質問
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
