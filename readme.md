@@ -8,8 +8,8 @@
 ・設定のバックアップ・復元・コピー  
 ・ユーザー・シェーダーフォルダの削除  
   
-# 使い方
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)から支援ツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします。  
+# 日本語化ツールの使い方
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします。  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください。  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
@@ -35,17 +35,11 @@
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
 # バックアップ・復元ツールの使い方
-3.&nbsp;バックアップ・復元ボタンを押します  
-4.&nbsp;LIVE、PTU、EPTUのうち、実施したいバージョンを選択します  
-5.&nbsp;バックアップ、復元対象が表示されるので、YESかNOボタンを押してください  
-  
-# 設定コピー機能の使い方
-1.&nbsp;コピーしたいバージョンの設定をBackupしておきます  
 2.&nbsp;バックアップ・復元ボタンを押します  
-3.&nbsp;コピー元のバージョンを選択します  
-4.&nbsp;コピー先のバージョンを選択します  
-5.&nbsp;コピー対象が表示されるので、YESかNOボタンを押してください  
-6.&nbsp;Restoreを実施します  
+3.&nbsp;バックアップ・復元・コピーのうち、実施したいモードを選択します  
+4.&nbsp;LIVE、PTU、EPTUのうち、実施したいバージョンを選択します  
+&emsp;(コピーを実施する場合はコピー元とコピー先のバージョンを選択してください)
+5.&nbsp;バックアップ、復元対象が表示されるので、YESかNOボタンを押してください  
 
 # User/Shaderフォルダ削除ツールの利用上の注意
 本ツールはStar Citizenのアップデート前に使うことをお勧めします  
