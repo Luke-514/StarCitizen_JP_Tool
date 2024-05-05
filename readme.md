@@ -27,22 +27,23 @@ PTUがLIVEのマイナーパッチをテストしている場合は、LIVEのシ
   
 操作設定等は消去されますので、必要な方はバックアップ・復元ツールでバックアップしてください  
   
-# 日本語化ツールの使い方
+# ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします。  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください。  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
 <img src="image/1.png" width="80%" />  
   
-3.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください。  
+# 日本語化ツールの使い方
+1.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください。  
 &emsp;(通常はLIVEでOKです)  
 <img src="image/2.png" width="50%" />  
   
-4.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください。  
+2.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください。  
 &emsp;(NOを押すと、前の画面に戻ります)  
 <img src="image/3.png" width="50%" />  
   
-5.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、  
+3.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、  
 &emsp;ゲームを起動してみてください。  
 <img src="image/4.png" width="50%" />  
   
