@@ -32,20 +32,16 @@ PTUがLIVEのマイナーパッチをテストしている場合は、LIVEのシ
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください。  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
-<img src="image/1.png" width="80%" />  
   
 # 日本語化ツールの使い方
 1.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください。  
 &emsp;(通常はLIVEでOKです)  
-<img src="image/2.png" width="50%" />  
   
 2.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください。  
 &emsp;(NOを押すと、前の画面に戻ります)  
-<img src="image/3.png" width="50%" />  
   
 3.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、  
 &emsp;ゲームを起動してみてください。  
-<img src="image/4.png" width="50%" />  
   
 # バックアップ・復元ツールの使い方
 1.&nbsp;バックアップ・復元ボタンを押します  
@@ -70,17 +66,13 @@ A.&nbsp;通常通りに日本語化の手順を実行すると、最新版のglo
 Q.&nbsp;日本語化を解除したい  
 A.&nbsp;左上の日本語化解除ボタンを押して、モードを切り替えてください。  
 &emsp;(その後の操作方法は日本語化の時とほぼ同じです)  
-<img src="image/jp_disable.png" width="50%" />  
   
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
-<img src="image/defender.jpg" width="45%" />
-<img src="image/defender_accept.jpg" width="45%" />  
   
 Q.&nbsp;任意のglobal.iniを導入したい(テストバージョンなど)  
 A.&nbsp;日本語化ファイル選択ボタンを押して、日本語化ファイルを選択した後に日本語化を実施してください
 &emsp;(ツールのあるフォルダに日本語化ファイルを配置して日本語化を実施してもよいです)  
-<img src="image/withglobal.png" width="80%" />  
   
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
