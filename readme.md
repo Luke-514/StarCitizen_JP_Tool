@@ -18,7 +18,7 @@ https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create
 # User/Shaderフォルダ削除ツールの利用上の注意
 本ツールはStar Citizenのアップデート前に使うことをお勧めします  
   
-PTUがLIVEのマイナーパッチをテストしている場合は、両方のシェーダーフォルダが削除されます  
+PTUがLIVEのマイナーパッチをテストしている場合は、LIVEのシェーダーフォルダも削除されます  
 マイナーパッチの例) LIVE: 3.17.4 PTU: 3.17.5  
 メジャーパッチの例) LIVE: 3.17.5 PTU: 3.18.0  
   
