@@ -6,9 +6,9 @@
 CIG(SCの開発・運営)が削除することを推奨している、ユーザーフォルダとシェーダーフォルダを削除するものです  
   
 # 使い方
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)から支援ツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします。  
   
-2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Translation_Installer.exeを起動してください。  
+2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください。  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
 <img src="image/1.png" width="80%" />  
   
@@ -32,22 +32,21 @@ CIG(SCの開発・運営)が削除することを推奨している、ユーザ�
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
 # バックアップ・復元ツールの使い方
-3.&nbsp;BackupかRestore、どちらか実施したいほうを入力します(b、rでも可)  
-4.&nbsp;LIVE、PTU、EPTUのうち、実施したいバージョンを入力します(l、p、epでも可)  
-5.&nbsp;バックアップ、復元対象が表示されるので、YESかNOを入力してください(y、nでも可)  
+3.&nbsp;バックアップ・復元ツールボタンを押します  
+4.&nbsp;LIVE、PTU、EPTUのうち、実施したいバージョンを選択します  
+5.&nbsp;バックアップ、復元対象が表示されるので、YESかNOボタンを押してください  
   
 # 設定コピー機能の使い方
 1.&nbsp;コピーしたいバージョンの設定をBackupしておきます  
-2.&nbsp;実施するモードの選択でCopyを入力します(cでも可)  
-3.&nbsp;コピー元のバージョンを入力します  
-4.&nbsp;コピー先のバージョンを入力します  
-5.&nbsp;コピー対象が表示されるので、YESかNOを入力してください(y、nでも可)  
+2.&nbsp;実施するモードの選択でCopyを選択します  
+3.&nbsp;コピー元のバージョンを選択します  
+4.&nbsp;コピー先のバージョンを選択します  
+5.&nbsp;コピー対象が表示されるので、YESかNOボタンを押してください  
 6.&nbsp;Restoreを実施します  
 
 # User/Shaderフォルダ削除ツールの利用上の注意
 本ツールはStar Citizenのアップデート前に使うことをお勧めします  
   
-本バッチファイルはLIVE/PTUの両方に対応していますが、  
 PTUがLIVEのマイナーパッチをテストしている場合は、両方のシェーダーフォルダが削除されます  
 マイナーパッチの例) LIVE: 3.17.4 PTU: 3.17.5  
 メジャーパッチの例) LIVE: 3.17.5 PTU: 3.18.0  
@@ -58,8 +57,8 @@ PTUがLIVEのマイナーパッチをテストしている場合は、両方の�
 操作設定等は消去されますので、必要な方はバックアップ・復元ツールでバックアップしてください  
 
 # User/Shaderフォルダ削除ツールの使い方
-3.&nbsp;LIVE、PTU、EPTUのうち、消したいバージョンを入力します(l、p、epでも可)  
-4.&nbsp;削除対象が表示されるので、YESかNOを入力してください(y、nでも可)  
+3.&nbsp;LIVE、PTU、EPTUのうち、消したいバージョンを選択します  
+4.&nbsp;削除対象が表示されるので、YESかNOボタンを押してください  
   
 # よくある質問
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
