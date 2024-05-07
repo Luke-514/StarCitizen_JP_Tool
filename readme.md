@@ -76,6 +76,8 @@ A.&nbsp;左上の日本語化解除ボタンを押して、モードを切り替
   
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
+<img src="image/defender.jpg" width="45%" />
+<img src="image/defender_accept.png" width="45%" />  
   
 Q.&nbsp;任意のglobal.iniを導入したい(テストバージョンなど)  
 A.&nbsp;日本語化ファイル選択ボタンを押して、日本語化ファイルを選択した後に日本語化を実施してください  
