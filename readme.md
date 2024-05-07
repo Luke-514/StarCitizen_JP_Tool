@@ -15,7 +15,7 @@
 操作プロファイルの詳しいImport/Export方法は以下を参考にしてください  
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
-コピー機能はバックアップされた設定等を別のバージョンへコピーする機能です  
+コピー機能はバックアップされた設定等を別のバージョンのバックアップフォルダへコピーする機能です  
   
 # User/Shaderフォルダ削除ツールの利用上の注意
 本ツールはStar Citizenのアップデート前に使うことをお勧めします  
