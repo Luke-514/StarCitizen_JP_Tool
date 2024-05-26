@@ -111,6 +111,10 @@ Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】
 # Special Thanks
 NTKestrel  
 Shinnryuu  
+MoMoShrine  
+クレクレ柴犬  
+Popolilo  
+Star Citizen Japan Community  
   
 # Donate(寄付)
 https://buymeacoffee.com/luke514  
