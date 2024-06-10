@@ -8,6 +8,13 @@
 ・設定のバックアップ・復元・コピー  
 ・ユーザー・シェーダーフォルダの削除  
   
+# ツールの入手と起動
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
+  
+2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください  
+&emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
+<img src="image/start.png" width="70%" />  
+  
 # 利用上の注意(共通)
   
 ツールを利用される際はスターシチズンを落としてからご利用ください  
@@ -38,13 +45,6 @@ PTUがLIVEのマイナーパッチをテストしている場合は、LIVEのシ
 表示された対象をよく確認してから削除を実施してください  
   
 操作設定等は消去されますので、必要な方はバックアップ・復元ツールでバックアップしてください  
-  
-# ツールの入手と起動
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
-  
-2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください  
-&emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
-<img src="image/start.png" width="70%" />  
   
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
