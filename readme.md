@@ -117,7 +117,7 @@ Shinnryuu
 MoMoShrine  
 クレクレ柴犬  
 Popolilo  
-Star Citizen Japan Community  
+[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # Donate(寄付)
 https://buymeacoffee.com/luke514  
