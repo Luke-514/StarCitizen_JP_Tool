@@ -24,8 +24,8 @@
 ローカライゼーション自体にバグが点在しています  
   
 # バックアップ・復元ツールの利用上の注意
-操作プロファイル・キャラクタープロファイルは手動でゲーム内からImport/Exportする必要があります  
-(操作プロファイル・キャラクタープロファイル以外はImport/Exportしなくても適用されます)  
+操作プロファイル・キャラクターファイルは手動でゲーム内からImport/Exportする必要があります  
+(操作プロファイル・キャラクターファイル以外はImport/Exportしなくても適用されます)  
   
 操作プロファイルの詳しいImport/Export方法は以下を参考にしてください  
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
