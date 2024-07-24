@@ -30,7 +30,7 @@
 操作プロファイルの詳しいImport/Export方法は以下を参考にしてください  
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
-キャラクタープロファイルはキャラクターカスタマイズ画面からImport/Exportしてください  
+キャラクターファイルはキャラクターカスタマイズ画面からImport/Exportしてください  
   
 コピー機能はバックアップされた設定等を別のバージョンのバックアップフォルダへコピーする機能です  
   
