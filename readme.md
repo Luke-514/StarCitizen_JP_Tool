@@ -31,7 +31,7 @@
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
 キャラクターファイルはキャラクターカスタマイズ画面からImport/Exportしてください  
-<img src="image/char save.png" width="50%" />  
+<img src="image/char save.png" width="70%" />  
   
 コピー機能はバックアップされた設定等を別のバージョンのバックアップフォルダへコピーする機能です  
   
