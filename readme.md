@@ -122,3 +122,6 @@ MoMoShrine
 クレクレ柴犬  
 Popolilo  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
+  
+# 寄付
+https://buymeacoffee.com/luke514
