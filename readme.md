@@ -122,6 +122,3 @@ MoMoShrine
 クレクレ柴犬  
 Popolilo  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
-  
-# Donate(寄付)
-https://luke514.booth.pm/items/6031304  
