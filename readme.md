@@ -7,7 +7,7 @@
 &emsp;(最新の[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)を自動で取得します)  
 ・設定のバックアップ・復元・コピー  
 ・ユーザー・シェーダーフォルダの削除  
-・日本語化ファイルのリリース状況確認(テストバージョン)  
+・日本語化ファイルのリリース状況確認  
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
@@ -109,7 +109,7 @@ A.&nbsp;日本語化ファイル選択ボタンを押して、global.iniを選�
 &emsp;(ツールのあるフォルダにglobal.iniを配置して日本語化を実施してもよいです)  
 <img src="image/se.png" width="50%" />  
   
-Q.&nbsp;LIVE以外の日本語化ファイルが最新かどうか確認したい(テストバージョン)  
+Q.&nbsp;LIVE以外の日本語化ファイルが最新かどうか確認したい  
 A.&nbsp;確認したいバージョンを選択し、日本語化ボタンを押してください  
   
 # 免責事項
