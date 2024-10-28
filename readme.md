@@ -123,6 +123,7 @@ Shinnryuu
 MoMoShrine  
 クレクレ柴犬  
 Popolilo  
+SEAGANG  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # 寄付
