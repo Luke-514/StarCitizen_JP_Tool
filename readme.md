@@ -29,9 +29,13 @@
 # バックアップ・復元ツールの利用上の注意
 バージョンによってはキーバインドや各種設定の内容が大幅に変わり、復元しても正しく動作しない可能性があります
 
-キャラクターファイルをバックアップする場合は、手動でキャラクターカスタマイズ画面からImport/Exportする必要があります  
+キャラクターファイルをバックアップ・復元する場合は、手動でキャラクターカスタマイズ画面からImport/Exportする必要があります  
 <img src="image/char menu.jpg" width="60%" />  
 <img src="image/char save.png" width="60%" />  
+  
+操作プロファイルをバックアップ・復元する場合は、手動でゲーム内からImport/Exportする必要があります  
+詳しい手順は以下のページを参考にしてください  
+https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
 コピー機能はバックアップされた設定等を別のバージョンのバックアップフォルダへコピーする機能です  
   
