@@ -29,15 +29,7 @@
 # バックアップ・復元ツールの利用上の注意
 バージョンによってはキーバインドや各種設定の内容が大幅に変わり、復元しても正しく動作しない可能性があります
 
-操作プロファイル・キャラクターファイルは手動でゲーム内からImport/Exportする必要があります  
-(操作プロファイル・キャラクターファイル以外(一般設定やキーバインドなど)はImport/Exportしなくても適用されます)  
-<img src="image/profile.jpg" width="60%" />  
-<img src="image/profile select.jpg" width="60%" />  
-  
-操作プロファイルの詳しいImport/Export方法は以下を参考にしてください  
-https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
-  
-キャラクターファイルはキャラクターカスタマイズ画面からImport/Exportしてください  
+キャラクターファイルをバックアップする場合は、手動でキャラクターカスタマイズ画面からImport/Exportする必要があります  
 <img src="image/char menu.jpg" width="60%" />  
 <img src="image/char save.png" width="60%" />  
   
