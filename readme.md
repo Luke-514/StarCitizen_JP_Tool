@@ -129,4 +129,4 @@ SEAGANG
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # 寄付
-https://buymeacoffee.com/luke514
+<a href="https://www.buymeacoffee.com/Luke514" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
