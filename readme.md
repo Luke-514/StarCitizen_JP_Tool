@@ -8,6 +8,7 @@
 ・設定のバックアップ・復元・コピー  
 ・ユーザー・シェーダーフォルダの削除  
 ・日本語化ファイルのリリース状況確認  
+・ツールの更新確認  
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
