@@ -111,6 +111,9 @@ A.&nbsp;日本語化ファイル選択ボタンを押して、global.iniを選�
 Q.&nbsp;LIVE以外の日本語化ファイルが最新かどうか確認したい  
 A.&nbsp;確認したいバージョンを選択し、日本語化ボタンを押してください  
   
+Q.&nbsp;StarCitizenがクラッシュした後にツールが起動しない  
+A.&nbsp;StarCitizenをもう一度起動しなおしてから、ツールを起動してみてください  
+  
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
