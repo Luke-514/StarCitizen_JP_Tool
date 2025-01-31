@@ -12,7 +12,6 @@
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
-&emsp;(4.0 Previewをプレイされる方は[4.0 Preview版Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/tag/4.0Preview)をお使いください)
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
