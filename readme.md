@@ -115,6 +115,9 @@ A.&nbsp;確認したいバージョンを選択し、日本語化ボタンを押
 Q.&nbsp;Star Citizenがクラッシュした後に、ツールを利用しようとしたら起動しなくなった  
 A.&nbsp;Star Citizenをもう一度起動しなおし、正常に終了させてから、ツールを起動してみてください  
   
+Q.&nbsp;ツールをしばらく使っていたら、ツールの動作がおかしくなった or 更新を検知しなくなった  
+A.&nbsp;GitHubのAPI制限に引っかかったことが原因と考えられますので、１時間後に再度お試しください  
+  
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
