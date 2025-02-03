@@ -5,10 +5,9 @@
 # 主な機能
 ・スターシチズンの日本語化・日本語化解除  
 &emsp;(最新の[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)を自動で取得します)  
-・設定のバックアップ・復元・コピー  
-・ユーザー・シェーダーフォルダの削除  
-・日本語化ファイルの更新確認  
-・ツールの更新確認  
+・設定のバックアップ、復元、コピー  
+・ユーザー、シェーダーフォルダの削除  
+・日本語化ファイル、ツールの更新確認  
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
