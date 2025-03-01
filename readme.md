@@ -130,13 +130,13 @@ Twitter:@rx_luke
 Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】 
   
 # Special Thanks
+SEAGANG  
+Someone  
 NTKestrel  
 Shinnryuu  
 MoMoShrine  
 クレクレ柴犬  
 Popolilo  
-SEAGANG  
-Someone  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # 寄付
