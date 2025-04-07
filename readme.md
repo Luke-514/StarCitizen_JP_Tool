@@ -39,6 +39,8 @@
 &emsp;詳しい手順は以下のページを参考にしてください  
 &emsp;https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
   
+・グラフィックレンダラーの設定はバックアップできません  
+  
 ・コピー機能はバックアップされた設定等を別のバージョンのバックアップフォルダへコピーする機能です  
   
 ・バックアップしたファイル等は、ツールのあるフォルダに生成されたBackupDataフォルダ内にあります  
