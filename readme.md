@@ -36,14 +36,13 @@
 &emsp;<img src="image/char save.png" width="60%" />  
   
 ・操作プロファイルをバックアップ・復元する場合は、手動でゲーム内からImport/Exportする必要があります  
-&emsp;詳しい手順は以下のページを参考にしてください  
-&emsp;https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles  
+&emsp;詳しい手順は[公式ナレッジ](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)を参考にしてください  
   
 ・グラフィックレンダラーの設定はバックアップできません  
   
-・コピー機能はバックアップされた設定等を別のバージョンのバックアップフォルダへコピーする機能です  
+・コピー機能はバックアップされた設定などを別のバージョンのバックアップフォルダへコピーする機能です  
   
-・バックアップしたファイル等は、ツールのあるフォルダに生成されたBackupDataフォルダ内にあります  
+・バックアップしたファイルなどは、ツールのあるフォルダに生成されるBackupDataフォルダ内にあります  
   
 # ユーザー・シェーダーフォルダ削除ツールの利用上の注意
 ・バージョン関係なく全てのシェーダーフォルダを削除します  
