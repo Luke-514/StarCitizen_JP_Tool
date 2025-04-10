@@ -126,13 +126,14 @@ A.&nbsp;GitHubのAPI制限に引っかかったことが原因と考えられま
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
   
 # 利用規約
+許可  
+・通常の利用  
+・SNSや動画、ブログでの紹介  
+&emsp;(掲載許可などは不要ですが、当サイトのリンクを貼ってください)  
+  
 禁止  
 ・二次配布  
 ・逆コンパイル、コードの抽出  
-  
-許可  
-・動画やサイトでの紹介  
-&emsp;(掲載許可などは不要ですが、作者名と当サイトのリンクを貼ってください)  
   
 # 作者
 Luke514  
