@@ -121,10 +121,6 @@ A.&nbsp;Star Citizenをもう一度起動しなおし、正常に終了させて
 Q.&nbsp;ツールをしばらく使っていたら、ツールの動作がおかしくなった or 更新を検知しなくなった  
 A.&nbsp;GitHubのAPI制限に引っかかったことが原因と考えられますので、１時間後に再度お試しください  
   
-# 免責事項
-本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
-Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
-  
 # 利用規約
 許可  
 ・通常の利用  
@@ -132,8 +128,14 @@ Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium 
 &emsp;(掲載許可などは不要ですが、当サイトのリンクを貼ってください)  
   
 禁止  
+・商用利用  
+&emsp;(ただし、紹介などで発生した収益は除く)  
 ・二次配布  
 ・逆コンパイル、コードの抽出  
+  
+# 免責事項
+本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
+Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
   
 # 作者
 Luke514  
