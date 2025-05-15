@@ -163,7 +163,7 @@ Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】
 # Special Thanks
 SEAGANG  
 Someone  
-aritu
+aritu  
 NTKestrel  
 Shinnryuu  
 MoMoShrine  
