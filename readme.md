@@ -126,7 +126,7 @@ A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してくださ
 &emsp;<img src="image/defender.jpg" width="45%" />
 <img src="image/defender_accept.png" width="45%" />  
   
-Q.&nbsp;任意の日本語化ファイルを導入したい(テストバージョンなど)  
+Q.&nbsp;任意の日本語化ファイルを導入したい(PTU用のテストバージョンなど)  
 A.&nbsp;日本語化ファイル選択ボタンを押して、global.iniを選択した後に日本語化を実施してください  
 &nbsp;&emsp;(ツールのあるフォルダにglobal.iniを配置して日本語化を実施してもよいです)  
 &nbsp;&emsp;<img src="image/se.png" width="50%" />  
@@ -139,10 +139,6 @@ A.&nbsp;Star Citizenをもう一度起動しなおし、正常に終了させて
   
 Q.&nbsp;ツールをしばらく使っていたら、ツールの動作がおかしくなった or 更新を検知しなくなった  
 A.&nbsp;GitHubのAPI制限に引っかかったことが原因と考えられますので、１時間後に再度お試しください  
-  
-Q.&nbsp;指定したバージョンがインストールされていないと表示される  
-A.&nbsp;Star Citizen側のログが更新され、指定したバージョンのインストール情報が無くなった可能性があります  
-&emsp;&nbsp;エラーの出たバージョンでStar Citizenを起動し、正常に終了させてから、ツールを起動してみてください  
   
 # 利用規約
 許可  
@@ -161,8 +157,9 @@ Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium 
   
 # 作者
 Luke514  
-Twitter:@rx_luke  
-Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】 
+Twitter：@rx_luke  
+  
+Star Citizen紹介コード(referral code)：STAR-9YPT-ZV5J  
   
 # Special Thanks
 SEAGANG  
