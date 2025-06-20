@@ -166,6 +166,7 @@ SEAGANG
 Someone  
 Ugachain  
 aritu  
+ぽえな  
 NTKestrel  
 Shinnryuu  
 MoMoShrine  
