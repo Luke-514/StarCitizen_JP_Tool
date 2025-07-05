@@ -140,6 +140,9 @@ A.&nbsp;Star Citizenをもう一度起動しなおし、正常に終了させて
 Q.&nbsp;ツールをしばらく使っていたら、ツールの動作がおかしくなった or 更新を検知しなくなった  
 A.&nbsp;GitHubのAPI制限に引っかかったことが原因と考えられますので、１時間後に再度お試しください  
   
+Q.&nbsp;上記いずれでも解決しない問題がある  
+A.&nbsp;アンチウイルスソフトの例外リスト等への登録と、管理者権限での起動を試してみてください  
+  
 # 利用規約
 許可  
 ・個人利用  
@@ -157,9 +160,12 @@ Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium 
   
 # 作者
 Luke514  
-Twitter：@rx_luke  
   
-Star Citizen紹介コード(referral code)：STAR-9YPT-ZV5J  
+Twitter  
+@rx_luke  
+  
+Star Citizen紹介コード(referral code)  
+STAR-9YPT-ZV5J  
   
 # Special Thanks
 SEAGANG  
