@@ -178,6 +178,7 @@ Shinnryuu
 MoMoShrine  
 クレクレ柴犬  
 Popolilo  
+あしま  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # 寄付
