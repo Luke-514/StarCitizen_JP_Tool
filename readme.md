@@ -5,6 +5,8 @@ Star Citizenを日本語化するための設定を自動で行ったり、
 手動で日本語化したい場合は、以下の記事をご覧ください  
 https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-localization/  
   
+<img src="image/tool.jpg" width="50%" />  
+  
 # 主な機能
 ・Star Citizenの日本語化、日本語化解除  
 &emsp;(最新の[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)を自動で取得します)  
@@ -13,8 +15,6 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 ・ゲームフォルダ名の変更  
 ・日本語化ファイル、ツールの更新確認  
 <!--・作者独自の推奨スペック確認  -->
-  
-<img src="image/tool.jpg" width="50%" />  
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
