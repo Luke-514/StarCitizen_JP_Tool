@@ -74,14 +74,19 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 >・複数のバージョンがインストールされていると正しく動作しません  
 >&emsp;インストールされているバージョンが１つのときのみお使いください
   
-<!--# スペック確認ツール利用上の注意
+<!-- # スペック確認ツール利用上の注意
 > [!CAUTION]  
 >・あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
 >&emsp;一部がNGでも、遊ぶことのできるPCは沢山ありますので、参考程度にご利用ください  
 >
-> ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください
+> ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
 >
-> ・Star Citizenがインストールされていなくても使用可能な[スタンドアロン版](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool)もあります  -->
+> ・サーバー向けと一部特殊な製品は登録していないため、結果がNGとして表示されます  
+>
+> ・Star Citizenがインストールされていなくても使用可能な[スタンドアロン版](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool)もあります
+> 
+> ・判定基準などは以下の記事をご覧ください  
+>&emsp;https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/  -->
   
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
