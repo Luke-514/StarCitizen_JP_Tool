@@ -14,7 +14,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 ・ユーザー、シェーダーフォルダの削除  
 ・ゲームフォルダ名の変更  
 ・日本語化ファイル、ツールの更新確認  
-<!--・作者独自の推奨スペック確認  -->
+・作者独自の推奨スペック確認  
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
@@ -74,7 +74,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 >・複数のバージョンがインストールされていると正しく動作しません  
 >&emsp;インストールされているバージョンが１つのときのみお使いください
   
-<!-- # スペック確認ツール利用上の注意
+# スペック確認ツール利用上の注意
 > [!CAUTION]  
 >・あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
 >&emsp;一部がNGでも、遊ぶことのできるPCは沢山ありますので、参考程度にご利用ください  
@@ -86,7 +86,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 > ・Star Citizenがインストールされていなくても使用可能な[スタンドアロン版](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool)もあります
 > 
 > ・判定基準などは以下の記事をご覧ください  
->&emsp;https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/  -->
+>&emsp;https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/  
   
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
@@ -129,11 +129,11 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
   
 3.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください  
   
-<!--# スペック確認ツールの使い方  
+# スペック確認ツールの使い方  
 1.&nbsp;スペック確認ボタンを押します  
 &nbsp;&emsp;<img src="image/spec.png" width="50%" />  
   
-2.&nbsp;スペック確認を実行してもよければ、OKボタンを押してください  -->
+2.&nbsp;スペック確認を実行してもよければ、OKボタンを押してください  
   
 # よくある質問
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
