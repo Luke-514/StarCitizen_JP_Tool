@@ -129,11 +129,11 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
   
 3.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください  
   
-# スペック確認ツールの使い方  
+# 推奨スペック確認ツールの使い方  
 1.&nbsp;スペック確認ボタンを押します  
 &nbsp;&emsp;<img src="image/spec.png" width="50%" />  
   
-2.&nbsp;スペック確認を実行してもよければ、OKボタンを押してください  
+2.&nbsp;推奨スペック確認を実行してもよければ、OKボタンを押してください  
   
 # よくある質問
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
