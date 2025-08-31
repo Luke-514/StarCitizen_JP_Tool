@@ -28,7 +28,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 >・一度もStar Citizenを起動したことが無い場合は、ツールの利用前にStar Citizenを起動してください  
 >&emsp;(Star Citizenを起動しないとインストール先の情報がログに書き込まれないため)  
 >  
-> &emsp;Star Citizenのアカウント登録や、購入方法は以下の記事をご覧ください  
+> &emsp;Star Citizenのアカウント登録、購入、インストールの方法は以下の記事をご覧ください  
 > &emsp;https://lukesplaygrounds.com/2024/04/07/how-to-start-star-citizen/  
 >  
 >・ツールを利用される際はStar Citizenを落としてからご利用ください  
