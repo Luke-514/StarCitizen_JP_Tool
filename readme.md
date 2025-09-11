@@ -59,7 +59,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 ・バックアップしたファイルなどは、ツールのあるフォルダに生成されるBackupDataフォルダ内にあります  
   
 # 設定・シェーダー削除ツール利用上の注意
-> [!WARNING]
+> [!CAUTION]
 > ・バージョン関係なく全てのシェーダーフォルダを削除します  
 > &emsp;(ユーザーフォルダは選択したバージョンのものを削除します)
 >  
