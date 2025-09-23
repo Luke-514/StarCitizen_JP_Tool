@@ -41,22 +41,23 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 >&emsp;ローカライゼーション自体にバグが点在しています  
   
 # バックアップツール利用上の注意
-・バージョンによってはキーバインドや各種設定の内容が大幅に変わり、  
-&emsp;復元しても正しく動作しない可能性があります  
-  
-・キャラクターファイルをバックアップ・復元する場合は、  
-&emsp;手動でキャラクターカスタマイズ画面からImport/Exportする必要があります  
-&emsp;<img src="image/char menu.jpg" width="60%" />  
-&emsp;<img src="image/char save.png" width="60%" />  
-  
-・操作プロファイルをバックアップ・復元する場合は、手動でゲーム内からImport/Exportする必要があります  
-&emsp;詳しい手順は[公式ナレッジ](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)を参考にしてください  
-  
-・グラフィックレンダラーの設定はバックアップできません  
-  
-・コピー機能はバックアップされた設定などを別のバージョンのバックアップフォルダへコピーする機能です  
-  
-・バックアップしたファイルなどは、ツールのあるフォルダに生成されるBackupDataフォルダ内にあります  
+> [!CAUTION]  
+>・バージョンによってはキーバインドや各種設定の内容が大幅に変わり、  
+>&emsp;復元しても正しく動作しない可能性があります  
+>  
+>・キャラクターファイルをバックアップ・復元する場合は、  
+>&emsp;手動でキャラクターカスタマイズ画面からImport/Exportする必要があります  
+>&emsp;<img src="image/char menu.jpg" width="60%" />  
+>&emsp;<img src="image/char save.png" width="60%" />  
+>  
+>・操作プロファイルをバックアップ・復元する場合は、手動でゲーム内からImport/Exportする必要があります  
+>&emsp;詳しい手順は[公式ナレッジ](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)を参考にしてください  
+>  
+>・グラフィックレンダラーの設定はバックアップできません  
+>  
+>・コピー機能はバックアップされた設定などを別のバージョンのバックアップフォルダへコピーする機能です  
+>  
+>・バックアップしたファイルなどは、ツールのあるフォルダに生成されるBackupDataフォルダ内にあります  
   
 # 設定・シェーダー削除ツール利用上の注意
 > [!CAUTION]
