@@ -191,6 +191,7 @@ A.&nbsp;アンチウイルスソフトの例外リスト等への登録と、管
   
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
+The author shall not be liable for any damages arising from the use of this tool.  
   
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
 Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC  
