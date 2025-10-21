@@ -200,7 +200,7 @@ Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered 
 This is an unofficial Star Citizen fan site, not affiliated with the Cloud Imperium group of companies.  
 All content on this site not authored by its host or users are property of their respective owners.  
   
-<img src="image/MadeByTheCommunity_Black.png" width="10%" />  
+<img src="image/MadeByTheCommunity_Black.png" width="15%" />  
   
 # 作者
 Luke514  
