@@ -133,7 +133,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
   
 3.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください  
   
-# 推奨スペック確認ツールの使い方  
+# 推奨スペックチェックツールの使い方  
 1.&nbsp;スペック確認ボタンを押します  
 &nbsp;&emsp;<img src="image/spec.png" width="50%" />  
   
