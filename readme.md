@@ -3,7 +3,7 @@ Star Citizenを日本語化するための設定を自動で行ったり、
 設定のバックアップ、ユーザーフォルダの削除などを行うツールです。  
   
 手動で日本語化したい場合は、以下の記事をご覧ください  
-https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-localization/  
+https://lukesplaygrounds.com/star-citizen-how-to-configure-japanese-localization/  
   
 <img src="image/tool.jpg" width="50%" />  
   
@@ -29,7 +29,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 >&emsp;(Star Citizenを起動しないとインストール先の情報がログに書き込まれないため)  
 >  
 > &emsp;Star Citizenのアカウント登録、購入、インストールの方法は以下の記事をご覧ください  
-> &emsp;https://lukesplaygrounds.com/2024/04/07/how-to-start-star-citizen/  
+> &emsp;https://lukesplaygrounds.com/how-to-start-star-citizen/  
 >  
 >・ツールを利用される際はStar Citizenを落としてからご利用ください  
 >&emsp;(Star Citizenを起動したままだと設定などが反映されません)  
@@ -90,7 +90,7 @@ https://lukesplaygrounds.com/2025/08/17/star-citizen-how-to-configure-japanese-l
 > ・Star Citizenがインストールされていなくても使用可能な[スタンドアロン版](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool)もあります
 > 
 > ・判定基準などは以下の記事をご覧ください  
->&emsp;https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/  
+>&emsp;https://lukesplaygrounds.com/recommended-pc-specs-for-star-citizen/  
   
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
@@ -208,7 +208,7 @@ Luke514
   
 Twitter：@rx_luke  
   
-Star Citizen紹介コード(referral code)：STAR-9YPT-ZV5J  
+Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspaceindustries.com/enlist?referral=STAR-9YPT-ZV5J)  
 (アカウント登録時に入力すると、ゲーム内通貨が50,000 UECもらえます)  
   
 # Special Thanks
