@@ -189,6 +189,8 @@ A.&nbsp;アンチウイルスソフトの例外リスト等への登録と、管
 ・逆コンパイル  
 ・コードの転用  
   
+※本規約は予告なく変更されることがあります  
+  
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
 The author shall not be liable for any damages arising from the use of this tool.  
