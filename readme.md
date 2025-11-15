@@ -215,7 +215,7 @@ Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspa
 ゲームパッケージの購入後に、ゲーム内通貨が 50,000 UEC もらえます  
 (アカウント作成後、24時間以内なら公式サイトの右上にあるアカウントメニューからも入力可能です)  
   
-[お問い合わせ](https://lukesplaygrounds.com/about/#toc4)
+[お問い合わせ](https://lukesplaygrounds.com/about/)
   
 # Special Thanks
 SEAGANG  
