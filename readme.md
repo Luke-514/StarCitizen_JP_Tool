@@ -211,7 +211,7 @@ Twitter：@rx_luke
   
 Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspaceindustries.com/enlist?referral=STAR-9YPT-ZV5J)  
   
-アカウント登録時に Referral Rewards の欄へ上記の紹介コードを入力すると、  
+アカウント登録時に Referral Rewards の欄へ上記の紹介コードを入力しておくと、  
 ゲームパッケージの購入後に、ゲーム内通貨が 50,000 UEC もらえます  
 (アカウント作成後、24時間以内なら公式サイトの右上にあるアカウントメニューからも入力可能です)  
   
