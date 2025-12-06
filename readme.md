@@ -56,6 +56,7 @@ https://lukesplaygrounds.com/star-citizen-how-to-configure-japanese-localization
 >・グラフィックレンダラーの設定はバックアップできません  
 >  
 >・コピー機能はバックアップされた設定などを別のバージョンのバックアップフォルダへコピーする機能です  
+> &emsp;(コピー後はコピー先のバージョンで復元を実施しないと設定が反映されません)  
 >  
 >・バックアップしたファイルなどは、ツールのあるフォルダに生成されるBackupDataフォルダ内にあります  
   
