@@ -118,6 +118,9 @@ https://lukesplaygrounds.com/star-citizen-how-to-configure-japanese-localization
   
 4.&nbsp;対象のファイル等が表示されるので、問題なければYESボタンを押してください  
   
+※設定を別のバージョンにコピーしたい場合はバックアップ → コピー → 復元の順番で実施してください  
+&emsp;例：LIVEをバックアップ → LIVEからPTUにコピー → PTUを復元  
+  
 # 設定・シェーダー削除ツールの使い方
 1.&nbsp;設定・シェーダーフォルダ削除ボタンを押します  
 &nbsp;&emsp;<img src="image/us.png" width="50%" />  
