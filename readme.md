@@ -17,7 +17,7 @@ https://lukesplaygrounds.com/star-citizen-how-to-configure-japanese-localization
 ・作者独自の推奨スペック確認  
   
 # ツールの入手と起動
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)か[Booth](https://luke514.booth.pm/items/7695181)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください  
 &emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
