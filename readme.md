@@ -212,7 +212,7 @@ All content on this site not authored by its host or users are property of their
   
 # 作者
 Luke514  
-Twitter：@rx_luke  
+X：@rx_luke  
   
 Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspaceindustries.com/enlist?referral=STAR-9YPT-ZV5J)  
   
