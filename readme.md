@@ -86,7 +86,8 @@ https://lukesplaygrounds.com/star-citizen-how-to-configure-japanese-localization
 >
 > ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
 >
-> ・サーバー、モバイル、ノート向け製品と一部特殊な製品は登録していないため、結果がNGとして表示されます  
+> ・サーバー、モバイル、ノート向け製品と一部特殊な製品は登録していないため、  
+> &emsp;結果がNGとして表示されます  
 >
 > ・Star Citizenがインストールされていなくても使用可能な[スタンドアロン版](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool)もあります
 > 
