@@ -2,9 +2,6 @@
 Star Citizenを日本語化するための設定を自動で行ったり、  
 設定のバックアップ、ユーザーフォルダの削除などを行うツールです。  
   
-手動で日本語化したい場合は、以下の記事をご覧ください  
-https://lukesplaygrounds.com/star-citizen-how-to-configure-japanese-localization/  
-  
 <img src="image/tool.jpg" width="50%" />  
   
 # 主な機能
