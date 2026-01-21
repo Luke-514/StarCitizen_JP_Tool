@@ -158,7 +158,7 @@ A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してくださ
 &emsp;<img src="image/defender.jpg" width="45%" />
 <img src="image/defender_accept.png" width="45%" />  
   
-Q.&nbsp;任意の日本語化ファイルを導入したい(PTU用のテストバージョンなど)  
+Q.&nbsp;任意の日本語化ファイルを導入したい(検証用バージョン等)  
 A.&nbsp;日本語化ファイル選択ボタンを押して、global.iniを選択した後に日本語化を実施してください  
 &nbsp;&emsp;(ツールのあるフォルダにglobal.iniを配置して日本語化を実施してもよいです)  
 &nbsp;&emsp;<img src="image/se.png" width="50%" />  
