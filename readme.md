@@ -110,7 +110,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
   
 # バックアップツールの使い方(支援版限定)
 1.&nbsp;バックアップボタンを押します  
-&emsp;<img src="image/br.png" width="50%" />  
+&emsp;<img src="image/br.jpg" width="50%" />  
   
 2.&nbsp;バックアップ・復元・コピーのうち、実施したいモードを選択してOKボタンを押してください  
   
@@ -124,7 +124,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
   
 # 設定・シェーダー削除ツールの使い方(支援版限定)
 1.&nbsp;設定・シェーダーフォルダ削除ボタンを押します  
-&nbsp;&emsp;<img src="image/us.png" width="50%" />  
+&nbsp;&emsp;<img src="image/us.jpg" width="50%" />  
   
 2.&nbsp;設定・シェーダーフォルダを消したいバージョンを選択してOKボタンを押してください  
   
@@ -132,7 +132,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
   
 # ゲームフォルダ名変更ツールの使い方(支援版限定)
 1.&nbsp;フォルダ名変更ボタンを押します  
-&nbsp;&emsp;<img src="image/cfn.png" width="50%" />  
+&nbsp;&emsp;<img src="image/cfn.jpg" width="50%" />  
   
 2.&nbsp;変更前と変更後のバージョンを選択して、OKボタンを押してください  
   
