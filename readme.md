@@ -226,9 +226,9 @@ Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspa
 (アカウント作成後、24時間以内なら公式サイトの右上にあるアカウントメニューからも入力可能です)  
   
 さらに、上記の紹介コードを利用してゲームパッケージを購入された方には、  
-**高機能版**のツールを提供させていただきます
+**支援版**のツールを提供させていただきます
   
-高機能版ツールの申請は[**こちら**](https://docs.google.com/forms/d/e/1FAIpQLSdNogn9ybIpvYZQTU_unV21Dt7RXaTOqyumiEUFEhXF8gIVEg/viewform)から！
+支援版ツールの申請は[**こちら**](https://docs.google.com/forms/d/e/1FAIpQLSdNogn9ybIpvYZQTU_unV21Dt7RXaTOqyumiEUFEhXF8gIVEg/viewform)から！
   
 [お問い合わせ](https://lukesplaygrounds.com/about/)
   
