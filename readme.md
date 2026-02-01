@@ -1,23 +1,29 @@
 # これは何をするためのもの？
-Star Citizenを日本語化するための設定を自動で行ったり、  
-設定のバックアップ、ユーザーフォルダの削除などを行うツールです。  
+Star Citizenを日本語化するための設定を自動で行うツールです。  
+[支援版(有料)](https://luke514.booth.pm/items/7695181)では設定のバックアップ、ユーザーフォルダの削除などを行うこともできます。  
   
 <img src="image/tool.jpg" width="50%" />  
   
 # 主な機能
 ・Star Citizenの日本語化、日本語化解除  
 &emsp;(最新の[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)を自動で取得します)  
+・日本語化ファイル、ツールの更新確認  
+・作者独自の推奨スペック確認  
+
+# 支援版限定の機能
 ・設定のバックアップ、復元、コピー  
 ・ユーザー、シェーダーフォルダの削除  
 ・ゲームフォルダ名の変更  
-・日本語化ファイル、ツールの更新確認  
-・作者独自の推奨スペック確認  
+・更新確認機能のON/OFF  
+・ツールの最前面表示ON/OFF  
+・ウィンドウサイズの自動調整ON/OFF  
+・テキストサイズ変更  
+・日本語化ファイル取得先変更  
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください  
-&emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
 &emsp;<img src="image/start.png" width="70%" />  
   
 # 利用上の注意(共通)
