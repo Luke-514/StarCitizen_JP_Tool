@@ -225,8 +225,8 @@ Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspa
 アカウント登録時に Referral Rewards の欄へ上の紹介コードを入力すると、ゲーム内通貨が 50,000 UEC もらえます  
 (アカウント作成後、24時間以内なら公式サイトの右上にあるアカウントメニューからも入力可能です)  
   
-さらに、上記の紹介コードを利用してゲームパッケージを購入された方には、
-高機能版のツールを提供させていただきます
+さらに、上記の紹介コードを利用してゲームパッケージを購入された方には、  
+**高機能版**のツールを提供させていただきます
   
 申請は[**こちら**](https://docs.google.com/forms/d/e/1FAIpQLSdNogn9ybIpvYZQTU_unV21Dt7RXaTOqyumiEUFEhXF8gIVEg/viewform)から！
   
