@@ -97,7 +97,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
 &nbsp;&emsp;(ツール起動時は日本語化ツールが選択されています)  
-&nbsp;&emsp;<img src="image/jp.png" width="50%" />  
+&nbsp;&emsp;<img src="image/jp.jpg" width="50%" />  
   
 2.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください  
 &nbsp;&emsp;(通常はLIVEでOKです)  
@@ -140,7 +140,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
   
 # 推奨スペックチェックツールの使い方
 1.&nbsp;スペック確認ボタンを押します  
-&nbsp;&emsp;<img src="image/spec.png" width="50%" />  
+&nbsp;&emsp;<img src="image/spec.jpg" width="50%" />  
   
 2.&nbsp;推奨スペック確認を実行してもよければ、OKボタンを押してください  
   
@@ -157,7 +157,7 @@ A.&nbsp;ツールを起動し、「最新の日本語化ファイルがリリー
 Q.&nbsp;日本語化を解除したい  
 A.&nbsp;左上の日本語化解除ボタンを押して、日本語化解除モードへ切り替えてください。  
 &nbsp;&emsp;(その後の操作方法は日本語化の時とほぼ同じです)  
-&nbsp;&emsp;<img src="image/djp.png" width="50%" />  
+&nbsp;&emsp;<img src="image/djp.jpg" width="50%" />  
   
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
