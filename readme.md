@@ -56,7 +56,9 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 >&emsp;<img src="image/char save.png" width="60%" />  
 >  
 >・操作プロファイルをバックアップ・復元する場合は、手動でゲーム内からImport/Exportする必要があります  
->&emsp;詳しい手順は[公式ナレッジ](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)を参考にしてください  
+>&emsp;詳しい手順は[公式ナレッジ](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)を参考にしてください
+>  
+>・バックアップできる電力プリセットは、エンジニアリング端末から手動で作成したものが対象です  
 >  
 >・コピー機能はバックアップされた設定などを別のバージョンのバックアップフォルダへコピーする機能です  
 > &emsp;(コピー後はコピー先のバージョンで復元を実施しないと設定が反映されません)  
