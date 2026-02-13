@@ -153,6 +153,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 # よくある質問
 Q.&nbsp;最新のツールをダウンロードしたのにアップデート通知が出る  
 A.&nbsp;Windows標準の「すべて展開」を使用してZipファイルを展開すると表示されなくなります  
+&nbsp;&emsp;<img src="image/unzip.jpg" width="70%" />  
   
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
 A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します。  
