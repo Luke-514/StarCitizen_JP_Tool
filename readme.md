@@ -155,6 +155,11 @@ Q.&nbsp;最新のツールをダウンロードしたのにアップデート通
 A.&nbsp;Windows標準の「すべて展開」を使用してZipファイルを展開すると表示されなくなります  
 &nbsp;&emsp;<img src="image/unzip.jpg" width="70%" />  
   
+Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
+A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
+&emsp;<img src="image/defender.jpg" width="45%" />
+<img src="image/defender_accept.png" width="45%" />  
+  
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
 A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します。  
 &nbsp;&emsp;(既に必要な情報が記載されていれば何もしません)  
@@ -168,11 +173,6 @@ Q.&nbsp;日本語化を解除したい
 A.&nbsp;左上の日本語化解除ボタンを押して、日本語化解除モードへ切り替えてください。  
 &nbsp;&emsp;(その後の操作方法は日本語化の時とほぼ同じです)  
 &nbsp;&emsp;<img src="image/djp.jpg" width="50%" />  
-  
-Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
-A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
-&emsp;<img src="image/defender.jpg" width="45%" />
-<img src="image/defender_accept.png" width="45%" />  
   
 Q.&nbsp;任意の日本語化ファイルを導入したい(検証用バージョン等)  
 A.&nbsp;日本語化ファイル選択ボタンを押して、global.iniを選択した後に日本語化を実施してください  
