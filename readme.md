@@ -21,7 +21,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 ・日本語化ファイル取得先変更  
   
 # ツールのダウンロードと起動
-1.&nbsp;[**Releases**](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をダウンロードします  
+1.&nbsp;[**Releases**](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZIPファイル(StarCitizen_JP_Tool.zip)をクリックしてダウンロードします  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Tool.exeを起動してください  
 &emsp;<img src="image/start.png" width="70%" />  
