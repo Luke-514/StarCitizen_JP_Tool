@@ -149,6 +149,10 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 2.&nbsp;推奨スペック確認を実行してもよければ、OKボタンを押してください  
   
 # よくある質問
+Q.&nbsp;ツールが起動しない  
+A.&nbsp;Zipファイルを展開してからご利用ください  
+&emsp;<img src="image/unzip.jpg" width="70%" />  
+  
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
 &emsp;<img src="image/defender.jpg" width="45%" />
