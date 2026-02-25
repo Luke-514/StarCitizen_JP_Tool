@@ -189,7 +189,7 @@ A.&nbsp;左上の日本語化解除ボタンを押して、日本語化解除モ
 &nbsp;&emsp;<img src="image/djp.jpg" width="50%" />  
   
 Q.&nbsp;任意の日本語化ファイルを導入したい(検証用バージョン等)  
-A.&nbsp;日本語化ファイル選択ボタンを押して、global.iniを選択した後に日本語化を実施してください  
+A.&nbsp;右上のファイルボタンを押して、global.iniを選択した後に日本語化を実施してください  
 &nbsp;&emsp;(ツールのあるフォルダにglobal.iniを配置して日本語化を実施してもよいです)  
 &nbsp;&emsp;<img src="image/se.jpg" width="50%" />  
   
