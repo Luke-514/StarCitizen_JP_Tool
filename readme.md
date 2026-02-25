@@ -164,7 +164,8 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 &nbsp;&emsp;プルダウンで追加する設定を選択し、追加ボタンを押してください  
 &nbsp;&emsp;<img src="image/cfge.jpg" width="50%" />  
   
-4.&nbsp;編集が完了したら、保存ボタンを押すか、Ctrl + Sで保存してください    
+4.&nbsp;編集が完了したら、保存ボタンを押すか、Ctrl + Sで保存してください  
+&nbsp;&emsp;(Star Citizenが起動している場合は、再起動後に設定が有効になります)  
   
 # よくある質問
 Q.&nbsp;ツールが起動しない  
