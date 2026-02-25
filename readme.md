@@ -96,6 +96,12 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 >・判定基準などは以下の記事をご覧ください  
 >&emsp;https://lukesplaygrounds.com/recommended-pc-specs-for-star-citizen/  
   
+# user.cfg編集ツール利用上の注意
+> [!CAUTION]  
+>・一行に一つのコマンドのみを記載してください  
+>
+>・Star Citizenを起動している場合は、再起動した後に記載した設定が反映されます  
+  
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
 &nbsp;&emsp;(ツール起動時は日本語化ツールが選択されています)  
@@ -110,6 +116,11 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 4.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、  
 &nbsp;&emsp;ゲームを起動してみてください  
   
+# 推奨スペックチェックツールの使い方
+1.&nbsp;スペック確認ボタンを押します  
+&nbsp;&emsp;<img src="image/spec.jpg" width="50%" />  
+  
+2.&nbsp;推奨スペック確認を実行してもよければ、OKボタンを押してください  
 # バックアップツールの使い方(支援版限定)
 1.&nbsp;バックアップボタンを押します  
 &emsp;<img src="image/br.jpg" width="50%" />  
@@ -142,11 +153,16 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
   
 4.&nbsp;Star Citizenのランチャーを起動し、変更後のバージョンで起動してください  
   
-# 推奨スペックチェックツールの使い方
-1.&nbsp;スペック確認ボタンを押します  
-&nbsp;&emsp;<img src="image/spec.jpg" width="50%" />  
+# user.cfg編集ツールの使い方(支援版限定)
+1.&nbsp;user.cfg編集ボタンを押します  
+&nbsp;&emsp;<img src="image/cfg.jpg" width="50%" />  
   
-2.&nbsp;推奨スペック確認を実行してもよければ、OKボタンを押してください  
+2.&nbsp;user.cfgを編集したいバージョンを選択し、進むボタンを押してください  
+  
+3.&nbsp;編集画面が出ますので、必要な設定を記載するか、プルダウンで追加する設定を選択し、追加ボタンを押してください  
+&nbsp;&emsp;<img src="image/cfge.jpg" width="50%" />  
+  
+4.&nbsp;編集が完了したら、保存ボタンを押すか、Ctrl + Sで保存してください    
   
 # よくある質問
 Q.&nbsp;ツールが起動しない  
