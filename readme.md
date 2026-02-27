@@ -9,12 +9,15 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 &emsp;(最新の[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)を自動で取得します)  
 ・日本語化ファイル、ツールの更新確認  
 ・作者独自の推奨スペック確認  
+・RSI Launcherを起動する  
 
 # 支援版限定の機能
 ・設定や各種プロファイル・プリセットのバックアップ、復元、コピー  
 ・ユーザー、シェーダーフォルダの一括削除  
 ・ゲームフォルダ名の変更  
 ・ツール上でのuser.cfgの編集  
+・ScreenShotフォルダを開く  
+・Star Citizenのログなどを収集  
 ・更新確認機能のON/OFF  
 ・ツールの最前面表示ON/OFF  
 ・ウィンドウサイズの自動調整ON/OFF  
