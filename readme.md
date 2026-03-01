@@ -108,7 +108,16 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 >・Star Citizenを起動している場合は、再起動した後に記載した設定が反映されます
 > 
 >・利用可能なコマンド一覧は以下の英語Wikiをご覧ください  
->&emsp;https://starcitizen.tools/Console_commands  
+>&emsp;https://starcitizen.tools/Console_commands
+  
+# 右側ツール類利用上の注意(支援版限定)
+> [!CAUTION]  
+>・ScreenShotを開くツールは他のツールで選択しているバージョンのScreenShotフォルダを開きます
+>
+>・ログ取得ツールは他のツールで選択しているバージョンのログを取得します  
+> &emsp;(Game.log、log.log、user.cfg、global.iniを取得します)
+>
+> ・ログ取得ツールはStar Citizenを終了させてから利用してください
   
 # 日本語化ツールの使い方
 1.&nbsp;日本語化ボタンを押します  
