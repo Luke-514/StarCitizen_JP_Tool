@@ -138,6 +138,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 &nbsp;&emsp;<img src="image/spec.jpg" width="50%" />  
   
 2.&nbsp;推奨スペック確認を実行してもよければ、OKボタンを押してください  
+  
 # バックアップツールの使い方(支援版限定)
 1.&nbsp;バックアップボタンを押します  
 &emsp;<img src="image/br.jpg" width="50%" />  
