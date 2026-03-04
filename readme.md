@@ -230,7 +230,7 @@ A.&nbsp;サポートは終了しましたが、利用規約は最新のものが
 &nbsp;&emsp;誤作動などが発生してもサポートできませんので、最新版をご利用ください
   
 Q.&nbsp;バグを見つけた！  
-A.&nbsp;[お問い合わせ](https://lukesplaygrounds.com/about/)より使用しているツールのバージョンと発生している症状、  
+A.&nbsp;[お問い合わせ](https://lukesplaygrounds.com/about/)から使用しているツールのバージョンと発生している症状、  
 &nbsp;&emsp;Star Citizenのインストール有無をご連絡いただけますと幸いです  
   
 # 利用規約
