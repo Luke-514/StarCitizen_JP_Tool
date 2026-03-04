@@ -269,12 +269,12 @@ All content on this site not authored by its host or users are property of their
 Luke514  
 X：@rx_luke  
   
-Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspaceindustries.com/enlist?referral=STAR-9YPT-ZV5J)  
+Star Citizen特典コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspaceindustries.com/enlist?referral=STAR-9YPT-ZV5J)  
   
-アカウント登録時に Referral Rewards の欄へ上の紹介コードを入力すると、ゲーム内通貨が 50,000 UEC もらえます  
+アカウント登録時に Referral Rewards の欄へ上記のコードを入力すると、ゲーム内通貨が 50,000 UEC もらえます  
 (アカウント作成後、24時間以内なら公式サイトの右上にあるアカウントメニューからも入力可能です)  
   
-さらに、上記の紹介コードを利用してゲームパッケージを購入された方は、  
+さらに、上記のコードを利用してゲームパッケージを購入された方は、  
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdNogn9ybIpvYZQTU_unV21Dt7RXaTOqyumiEUFEhXF8gIVEg/viewform)から申請いただくことで、[支援版](https://luke514.booth.pm/items/7695181)のツールを提供させていただきます
   
 [お問い合わせ](https://lukesplaygrounds.com/about/)
