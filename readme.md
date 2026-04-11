@@ -262,14 +262,11 @@ SNSなどでReferral Spam(紹介コード、アカウント登録リンクスパ
 This tool is provided "as is." The author makes no warranties whatsoever regarding the functionality, performance, or accuracy of this tool.  
 This tool may be subject to specification changes, discontinuation of distribution, or cessation of updates without prior notice.  
   
-作者は、本ツールの利用により利用者に生じた損害について、作者の責めに帰すべき事由がある場合に限り、  
-通常生ずべき損害の範囲で賠償責任を負うものとし、その賠償額は利用者が支払った本ツールの利用料金の総額を上限とします。  
-なお、付随的損害、間接損害、特別損害、将来の損害および逸失利益にかかる損害については、賠償の責任を負わないものとします。  
-ただし、作者に故意または重過失がある場合はこの限りではありません。  
-The author shall be liable for damages incurred by the user as a result of using this tool only if such damages are attributable to the author's fault,  
-and only to the extent of damages that would ordinarily occur. The amount of compensation shall be limited to the total amount of the usage fee for this tool paid by the user.  
-The author shall not be liable for incidental damages, indirect damages, special damages, future damages, or lost profits.  
-However, this shall not apply if the author is found to have acted with intent or gross negligence.  
+作者は、付随的損害、間接損害、特別損害、将来の損害、逸失利益にかかる損害、およびデータの消失について、賠償の責任を負わないものとします。  
+利用者に損害が生じた場合、作者に故意または重過失がある場合を除き、利用者に現実に生じた直接かつ通常の損害に限り、賠償責任を負うものとします。  
+The author shall not be liable for incidental damages, indirect damages, special damages, future damages, lost profits, or loss of data.  
+In the event of damage to the user, the author shall only be liable for direct and ordinary damages actually incurred by the user,  
+except in cases of willful misconduct or gross negligence on the part of the author.  
   
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
 Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC  
