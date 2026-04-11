@@ -257,6 +257,11 @@ SNSなどでReferral Spam(紹介コード、アカウント登録リンクスパ
 ※本規約は予告なく変更されることがあります  
   
 # 免責事項
+本ツールは現状のまま提供されます。作者は本ツールの機能、性能、正確性について一切の保証を行いません。  
+本ツールは予告なく仕様変更、配布中止、更新停止を行うことがあります。  
+This tool is provided "as is." The author makes no warranties whatsoever regarding the functionality, performance, or accuracy of this tool.  
+This tool may be subject to specification changes, discontinuation of distribution, or cessation of updates without prior notice.  
+  
 作者は、本ツールの利用により利用者に生じた損害について、作者の責めに帰すべき事由がある場合に限り、  
 通常生ずべき損害の範囲で賠償責任を負うものとし、その賠償額は利用者が支払った本ツールの利用料金の総額を上限とします。  
 なお、付随的損害、間接損害、特別損害、将来の損害および逸失利益にかかる損害については、賠償の責任を負わないものとします。  
@@ -265,11 +270,6 @@ The author shall be liable for damages incurred by the user as a result of using
 and only to the extent of damages that would ordinarily occur. The amount of compensation shall be limited to the total amount of the usage fee for this tool paid by the user.  
 The author shall not be liable for incidental damages, indirect damages, special damages, future damages, or lost profits.  
 However, this shall not apply if the author is found to have acted with intent or gross negligence.  
-
-本ツールは現状のまま提供されます。作者は本ツールの機能、性能、正確性について一切の保証を行いません。  
-本ツールは予告なく仕様変更、配布中止、更新停止を行うことがあります。  
-This tool is provided "as is." The author makes no warranties whatsoever regarding the functionality, performance, or accuracy of this tool.  
-This tool may be subject to specification changes, discontinuation of distribution, or cessation of updates without prior notice.  
   
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
 Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC  
