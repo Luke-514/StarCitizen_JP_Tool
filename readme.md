@@ -257,8 +257,12 @@ SNSなどでReferral Spam(紹介コード、アカウント登録リンクスパ
 ※本規約は予告なく変更されることがあります  
   
 # 免責事項
-本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
-The author shall not be liable for any damages arising from the use of this tool.  
+作者は、本ツールの利用によりユーザーに生じた損害について、作者の責めに帰すべき事由がある場合に限り、  
+通常生ずべき損害の範囲で賠償責任を負うものとし、その賠償額は利用者が支払った利用料金の総額を上限とします。  
+ただし、当社に故意または重過失がある場合はこの限りではありません。  
+The author shall be liable for damages incurred by the user as a result of using this tool only if the damage is attributable to the author's fault,  
+and only to the extent of damages that would ordinarily occur, with the maximum amount of compensation being the total amount of usage fees paid by the user.  
+However, this shall not apply if the company is found to have acted with intent or gross negligence.  
   
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
 Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC  
