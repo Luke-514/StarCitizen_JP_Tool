@@ -257,7 +257,7 @@ SNSなどでReferral Spam(紹介コード、アカウント登録リンクスパ
 ※本規約は予告なく変更されることがあります  
   
 # 免責事項
-作者は、本ツールの利用によりユーザーに生じた損害について、作者の責めに帰すべき事由がある場合に限り、  
+作者は、本ツールの利用により利用者に生じた損害について、作者の責めに帰すべき事由がある場合に限り、  
 通常生ずべき損害の範囲で賠償責任を負うものとし、その賠償額は利用者が支払った利用料金の総額を上限とします。  
 ただし、作者に故意または重過失がある場合はこの限りではありません。  
 The author shall be liable for damages incurred by the user as a result of using this tool only if the damage is attributable to the author's fault,  
