@@ -288,15 +288,14 @@ blackhaimu
 SEAGANG  
 Ugachain  
 aritu  
-ぽえな  
-NAREL  
-Someone  
 NTKestrel  
 Shinnryuu  
 MoMoShrine  
 クレクレ柴犬  
 Popolilo  
 あしま  
+ぽえな  
+NAREL  
 たんぽぽ  
 yoidore_music  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
