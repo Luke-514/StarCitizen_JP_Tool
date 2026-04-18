@@ -298,6 +298,7 @@ yoidore_music
 ぽえな  
 NAREL  
 たんぽぽ  
+匿名で支援いただいた皆様  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # 寄付
