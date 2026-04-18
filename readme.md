@@ -297,6 +297,8 @@ MoMoShrine
 クレクレ柴犬  
 Popolilo  
 あしま  
+たんぽぽ  
+yoidore_music  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
 # 寄付
