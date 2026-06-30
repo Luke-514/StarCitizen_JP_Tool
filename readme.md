@@ -254,7 +254,7 @@ A.&nbsp;[お問い合わせ](https://lukesplaygrounds.com/about/)から使用し
 ・SNSなどでReferral Spam(紹介コード、アカウント登録リンクスパム)を頻繁に繰り返している方と、  
 　それらの拡散・支援を行っている方の本ツールの利用を禁止します  
   
-・本ツールの配布などはLuke-514のGitHub、Luke’s Playgrounds、Luke514’s Shop以外では一切許可しておりません  
+・本ツールの配布はLuke-514のGitHub、Luke’s Playgrounds、Luke514’s Shop以外では一切許可しておりません  
   
 ・利用規約に違反された場合は利用料、賠償金をお支払いいただきます  
   
