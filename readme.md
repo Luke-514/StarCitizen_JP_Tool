@@ -282,6 +282,10 @@ All content on this site not authored by its host or users are property of their
   
 <img src="image/MadeByTheCommunity_Black.png" width="15%" />  
   
+# 日本語化ファイル(global.ini)ライセンス
+https://github.com/stdblue/StarCitizenJapaneseResources/blob/master/LICENSE  
+© 2017 Star Citizen Japan Community Localization Team  
+  
 # 作者
 Luke514  
 X：@rx_luke  
