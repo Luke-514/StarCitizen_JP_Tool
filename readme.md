@@ -272,7 +272,7 @@ A.&nbsp;[お問い合わせ](https://lukesplaygrounds.com/about/)から使用し
 　[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)のオフトピックチャンネルのいずれかでLuke宛にご連絡ください  
   
 ・Star Citizen Japan Community(SCJP)版日本語化ファイルの翻訳を含んだReplace.txtを配布する場合は、  
-　[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)の日本語化作業所チャンネルへご連絡いただき、[日本語化ファイル配布元](https://github.com/stdblue/StarCitizenJapaneseResources)のリンクと、  
+　[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)の日本語化作業所チャンネルへご連絡いただき、[日本語化ファイル配布元](https://github.com/stdblue/StarCitizenJapaneseResources)のリンク、  
 　Star Citizen Japan Community Localization Teamの帰属表示を必ず含めてください  
   
 ・利用規約に違反された場合は利用料、賠償金をお支払いいただきます  
