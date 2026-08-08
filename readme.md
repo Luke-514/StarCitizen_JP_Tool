@@ -268,8 +268,8 @@ A.&nbsp;[お問い合わせ](https://lukesplaygrounds.com/about/)から使用し
 ・Replace.txtのみ、収益化せず、あらゆる宣伝を含まない場合は配布可能です(3.2.0以降)  
 　(元になったデータがある場合はライセンスを必ず順守してください)  
   
-・Replace.txtを配布する場合は、[X](https://x.com/rx_luke)、[お問い合わせ](https://lukesplaygrounds.com/about/)、DiscordのDM、[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)のオフトピックチャンネルの  
-　いずれかでLuke宛にご連絡ください  
+・Replace.txtを配布する場合は、[X](https://x.com/rx_luke)、[お問い合わせ](https://lukesplaygrounds.com/about/)、DiscordのDM、  
+　[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)のオフトピックチャンネルのいずれかでLuke宛にご連絡ください  
   
 ・Star Citizen Japan Community(SCJP)版日本語化ファイルの翻訳を含んだReplace.txtを配布する場合は、  
 　[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)の日本語化作業所チャンネルへご連絡いただき、[日本語化ファイル配布元](https://github.com/stdblue/StarCitizenJapaneseResources)のリンクと、  
