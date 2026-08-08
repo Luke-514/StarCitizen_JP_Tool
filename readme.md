@@ -205,6 +205,10 @@ A.&nbsp;日本語化ツールがあるフォルダに置き換えたいキーと
 &nbsp;&emsp;日本語化ファイル(global.ini)の対応する翻訳を置き換えます(3.2.0以降)  
 &emsp;<img src="image/replace.jpg" />  
   
+&nbsp;&emsp;※自前のReplace.txtを利用される場合は、BOM付きUTF-8で保存してください  
+&nbsp;&emsp;※Replace.txtに日本語化ファイルに無いキーを記載しても反映されません  
+&nbsp;&emsp;※Replace.txtに重複したキーがあると置き換えに失敗します  
+  
 Q.&nbsp;アップデート後にStar Citizenを起動したら、文字化けのような表示が出た  
 A.&nbsp;ツールを起動し、「最新の日本語化ファイルがリリースされています」と出ている場合は、  
 &nbsp;&emsp;日本語化ファイルが更新されていますので、再度日本語化を実施してください  
