@@ -203,7 +203,7 @@ A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報�
 Q.&nbsp;一部の翻訳を独自の翻訳に置き換えたい場合はどうすればいいですか？  
 A.&nbsp;日本語化ツールがあるフォルダに置き換えたいキーと翻訳を記載したReplace.txtを配置して日本語化すると、  
 &nbsp;&emsp;日本語化ファイル(global.ini)の対応する翻訳を置き換えます(3.2.0以降)  
-&emsp;<img src="image/replace.jpg" />  
+&emsp;<img src="image/replace.jpg" width="20%" />  
   
 &nbsp;&emsp;※自前のReplace.txtを利用される場合は、BOM付きUTF-8で保存してください  
 &nbsp;&emsp;※Replace.txtに日本語化ファイルに無いキーを記載しても反映されません  
