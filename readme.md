@@ -328,6 +328,7 @@ NAREL
 たんぽぽ  
 Kalani  
 匿名で支援いただいた皆様  
+検証版をテストいただいた皆様  
 Star Citizen Japan Community Localization Team  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
