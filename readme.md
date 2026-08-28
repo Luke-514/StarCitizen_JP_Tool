@@ -202,7 +202,7 @@ A.&nbsp;Windows セキュリティ → アプリとブラウザー コントロ�
 &emsp;<img src="image/sac.jpg" width="90%" />  
   
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
-A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します。  
+A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します  
 &nbsp;&emsp;(既に必要な情報が記載されていれば何もしません)  
   
 Q.&nbsp;Replace.txtを利用して、一部の翻訳を独自の翻訳に置き換えたい場合はどうすればいいですか？  
@@ -220,7 +220,7 @@ A.&nbsp;ツールを起動し、「最新の日本語化ファイルがリリー
 &nbsp;&emsp;<img src="image/update.jpg" width="50%" />  
   
 Q.&nbsp;日本語化を解除したい  
-A.&nbsp;左上の日本語化解除ボタンを押して、日本語化解除モードへ切り替えてください。  
+A.&nbsp;左上の日本語化解除ボタンを押して、日本語化解除モードへ切り替えてください  
 &nbsp;&emsp;(その後の操作方法は日本語化の時とほぼ同じです)  
 &nbsp;&emsp;<img src="image/djp.jpg" width="50%" />  
   
