@@ -196,6 +196,11 @@ A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してくださ
 &emsp;<img src="image/defender.jpg" width="45%" />
 <img src="image/defender_accept.png" width="45%" />  
   
+Q.&nbsp;ツールを起動するとスマート アプリ コントロールに止められる  
+A.&nbsp;Windows セキュリティ → アプリとブラウザー コントロール → スマート アプリ コントロールの設定から  
+&nbsp;&emsp;スマート アプリ コントロールをオフにして起動してください  
+&emsp;<img src="image/sac.jpg" width="100%" />  
+  
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
 A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します。  
 &nbsp;&emsp;(既に必要な情報が記載されていれば何もしません)  
