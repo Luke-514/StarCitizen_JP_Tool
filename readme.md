@@ -199,7 +199,7 @@ A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してくださ
 Q.&nbsp;ツールを起動するとスマート アプリ コントロールに止められる  
 A.&nbsp;Windows セキュリティ → アプリとブラウザー コントロール → スマート アプリ コントロールの設定から  
 &nbsp;&emsp;スマート アプリ コントロールをオフにして起動してください  
-&emsp;<img src="image/sac.jpg" width="100%" />  
+&emsp;<img src="image/sac.jpg" width="90%" />  
   
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
 A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します。  
