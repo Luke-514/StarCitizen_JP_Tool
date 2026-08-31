@@ -201,14 +201,14 @@ A.&nbsp;Windows セキュリティ → アプリとブラウザー コントロ�
 &nbsp;&emsp;スマート アプリ コントロールをオフにして起動してください  
 &emsp;<img src="image/sac.jpg" width="90%" />  
   
-Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
-A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します  
-&nbsp;&emsp;(既に必要な情報が記載されていれば何もしません)  
-  
 Q.&nbsp;Replace.txtを利用して、一部の翻訳を独自の翻訳に置き換えたい場合はどうすればいいですか？  
 A.&nbsp;日本語化ツールがあるフォルダに置き換えたいキーと翻訳を記載したReplace.txtを配置して日本語化すると、  
 &nbsp;&emsp;日本語化ファイル(global.ini)の対応する翻訳を置き換えます(3.2.0以降)  
 &emsp;<img src="image/replace.jpg" width="20%" />  
+  
+Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
+A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報を追記します  
+&nbsp;&emsp;(既に必要な情報が記載されていれば何もしません)  
   
 &nbsp;&emsp;※自前のReplace.txtを利用される場合は、BOM付きUTF-8で保存してください  
 &nbsp;&emsp;※Replace.txtに日本語化ファイルに無いキーを記載しても反映されません  
