@@ -7,6 +7,7 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 # 主な機能
 ・Star Citizenの日本語化、日本語化解除  
 &emsp;(最新の[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)を自動で取得します)  
+・カスタム翻訳の適用  
 ・日本語化ファイル、ツールの更新確認  
 ・作者独自の推奨スペック確認  
 ・RSI Launcherを起動する  
