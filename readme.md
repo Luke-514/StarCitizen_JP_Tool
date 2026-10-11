@@ -26,8 +26,8 @@ Star Citizenを日本語化するための設定を自動で行うツールで�
 ・テキストサイズ変更  
 ・テキストと背景の色変更(カラーコード指定)  
 ・日本語化ファイル取得先変更  
-・コマンドラインから日本語化ファイルの一括更新(3.3.0以降)  
 &emsp;(GitHubのReleasesで配布されている物のみ)  
+・コマンドラインから日本語化ファイルの一括更新(3.3.0以降)  
   
 # ツールのダウンロードと起動
 1.&nbsp;[**Releases**](https://github.com/Luke-514/StarCitizen_JP_Tool/releases/latest)からツールのZipファイル(StarCitizen_JP_Tool.zip)をクリックしてダウンロードします  
