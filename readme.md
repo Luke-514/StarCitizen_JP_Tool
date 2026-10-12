@@ -342,6 +342,7 @@ Popolilo
 yoidore_music  
 calico_mochi  
 muraosa0404  
+KOTARO  
 ぽえな  
 NAREL  
 たんぽぽ  
